@@ -1,0 +1,4381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>default_my_places</name>
+	<open>1</open>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin40</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffffaa55</color>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl00">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffffaa55</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin10">
+		<IconStyle>
+			<color>ffffff55</color>
+			<scale>1.06364</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>bfffff00</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<color>bf00ff00</color>
+			<scale>1.06364</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>bf00ff00</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin30">
+		<IconStyle>
+			<color>bfffff00</color>
+			<scale>1.06364</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>bfffff00</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin40">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin00">
+		<IconStyle>
+			<color>bfffff00</color>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>bfffff00</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin000">
+		<IconStyle>
+			<color>bf00ff00</color>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>bf00ff00</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0000">
+		<IconStyle>
+			<color>ffffff55</color>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>bfffff00</color>
+			<scale>0.9</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin01">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>My Places</name>
+		<open>1</open>
+		<Style>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<ItemIcon>
+					<state>open</state>
+					<href>:/mysavedplaces_open.png</href>
+				</ItemIcon>
+				<ItemIcon>
+					<state>closed</state>
+					<href>:/mysavedplaces_closed.png</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Folder>
+			<name>Active Portfolio</name>
+			<Placemark>
+				<name>Two Rivers Villas (WestBay)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-07-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-82.23092674028612</longitude>
+					<latitude>28.18426801604756</latitude>
+					<altitude>0</altitude>
+					<heading>0.09479196912978864</heading>
+					<tilt>17.60973293342673</tilt>
+					<range>1910.918623825489</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-82.22867729097923,28.18606187570581,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Oakfield Lakes (EPG)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-03-08</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-82.44402609210798</longitude>
+					<latitude>27.61156164481351</latitude>
+					<altitude>0</altitude>
+					<heading>-0.008564123400538019</heading>
+					<tilt>0</tilt>
+					<range>12220.87711389048</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-82.46663343684659,27.6281518136405,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Abbott Commons (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-07-13</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-85.89774605759405</longitude>
+					<latitude>39.98236566067814</latitude>
+					<altitude>0</altitude>
+					<heading>0.07594035383857768</heading>
+					<tilt>2.810084242018136</tilt>
+					<range>3622.032081205815</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-85.89669215342435,39.98947207404722,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Alpine Ridge (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-06-30</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-115.3013197907889</longitude>
+					<latitude>36.25941339261097</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02137612178652558</heading>
+					<tilt>17.0265633212613</tilt>
+					<range>4416.357338757008</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-115.3013197907889,36.25941339261097,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Alto (Hovnanian)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-04-23</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-112.2186939148231</longitude>
+					<latitude>33.54402469620363</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0200982450353539</heading>
+					<tilt>25.35845701420048</tilt>
+					<range>1320.711458119669</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-112.2193076565477,33.54432244588482,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Arbor Bluff (Lennar)</name>
+				<LookAt>
+					<longitude>-93.49891059710482</longitude>
+					<latitude>45.01890740150935</latitude>
+					<altitude>0</altitude>
+					<heading>1.301949514897919</heading>
+					<tilt>0.03982562017846259</tilt>
+					<range>158759.8952794653</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-93.48306000000001,44.76181,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Asante Heritage (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-04-23</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-112.4179120376265</longitude>
+					<latitude>33.70425562363254</latitude>
+					<altitude>0</altitude>
+					<heading>0.0008720055127493182</heading>
+					<tilt>1.428003093277186</tilt>
+					<range>3871.409922137423</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-112.4311053174238,33.71097838456821,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ascente (Toll)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-06-30</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-119.794746785778</longitude>
+					<latitude>39.38179192857488</latitude>
+					<altitude>0</altitude>
+					<heading>0.01395507086487752</heading>
+					<tilt>9.631932809443731</tilt>
+					<range>2781.224117832148</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-119.7997264960296,39.38285347042767,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Auburn Meadows (Lennar)</name>
+				<LookAt>
+					<longitude>-93.67403932283396</longitude>
+					<latitude>44.86766085685736</latitude>
+					<altitude>0</altitude>
+					<heading>1.18130583214446</heading>
+					<tilt>0.03964929142787261</tilt>
+					<range>154133.7029777777</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-86.44988055555557,40.08258,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bakers Creek (Lennar - Solaris)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-06-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-80.62077673465926</longitude>
+					<latitude>35.51737024887601</latitude>
+					<altitude>0</altitude>
+					<heading>-0.00095516287347202</heading>
+					<tilt>0</tilt>
+					<range>3014.446680305528</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-80.62253857763568,35.51927221110651,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bayshore Ranch (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2021-11-30</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-81.78651046208823</longitude>
+					<latitude>26.72280851693943</latitude>
+					<altitude>0</altitude>
+					<heading>-0.07035061481287802</heading>
+					<tilt>15.58728014571673</tilt>
+					<range>1786.244565315666</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-81.78690053130759,26.72043729592108,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bellwood (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-07-13</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-86.39250480416031</longitude>
+					<latitude>39.74756437981192</latitude>
+					<altitude>0</altitude>
+					<heading>0.004929615343219012</heading>
+					<tilt>22.73633336285271</tilt>
+					<range>1144.982874909322</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-86.39221966225183,39.7466725353321,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Berry Bay (EPG)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-03-08</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-82.3261527612428</longitude>
+					<latitude>27.66914501822331</latitude>
+					<altitude>0</altitude>
+					<heading>0.0462522274501254</heading>
+					<tilt>18.9833140762325</tilt>
+					<range>7271.887106079198</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-82.33483296957179,27.6716576854787,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Blossom Rock (David Weekley)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-05-03</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-111.5584077006101</longitude>
+					<latitude>33.32787700507418</latitude>
+					<altitude>0</altitude>
+					<heading>0.1529825837761048</heading>
+					<tilt>18.88098074192782</tilt>
+					<range>3237.299457726367</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-111.5578357451835,33.32880063762762,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Brookmoore (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-06-27</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-93.64656959999999</longitude>
+					<latitude>44.85981010000001</latitude>
+					<altitude>0</altitude>
+					<heading>2.743228412762283e-14</heading>
+					<tilt>0</tilt>
+					<range>1000.000000001797</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-93.64658824172207,44.86014374905841,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Caslano (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-06-27</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-93.23811578830333</longitude>
+					<latitude>44.68480636675284</latitude>
+					<altitude>0</altitude>
+					<heading>1.066283342376655e-09</heading>
+					<tilt>0</tilt>
+					<range>1014.179435118588</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-93.23811578830333,44.68480636675285,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cherry Lake (Lennar - Solaris)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2021-11-30</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-81.80711391714605</longitude>
+					<latitude>28.60675989491859</latitude>
+					<altitude>0</altitude>
+					<heading>0.8520993639569919</heading>
+					<tilt>12.38927420654216</tilt>
+					<range>2991.004718006791</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-81.80711391714605,28.60675989491858,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cielo Gardens (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-07-19</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-97.61414529999993</longitude>
+					<latitude>30.83772600000001</latitude>
+					<altitude>0</altitude>
+					<heading>-5.565970692561154e-15</heading>
+					<tilt>0</tilt>
+					<range>1000.000000000793</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-97.61414529999993,30.83772600000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Clifton Trace (Lennar)</name>
+				<LookAt>
+					<longitude>-85.81634108839357</longitude>
+					<latitude>40.08409786761081</latitude>
+					<altitude>0</altitude>
+					<heading>6.958406343585812</heading>
+					<tilt>0.01739791155463916</tilt>
+					<range>371087.4821336988</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-85.96317000000001,39.84002,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CoCo Bay (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2021-11-30</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-82.31689270638601</longitude>
+					<latitude>26.90844794867449</latitude>
+					<altitude>0</altitude>
+					<heading>9.671234359000723e-05</heading>
+					<tilt>1.526273352614916</tilt>
+					<range>2559.387889285949</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-82.31666588493054,26.9057078745339,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Coconut Cove (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-06-25</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-80.3641931507272</longitude>
+					<latitude>27.55169768652213</latitude>
+					<altitude>0</altitude>
+					<heading>0.02888461672927459</heading>
+					<tilt>22.29835418309406</tilt>
+					<range>1937.950737930456</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-80.3655172064361,27.55006349440663,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Coral Creek (EPG)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-05-02</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-82.01973469147441</longitude>
+					<latitude>26.84722782173934</latitude>
+					<altitude>0</altitude>
+					<heading>0.1283513433510866</heading>
+					<tilt>29.31515335065147</tilt>
+					<range>5013.558713100962</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-82.01695347034278,26.84587010136498,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dean Martin Le Baron (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-06-30</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-115.1841660028689</longitude>
+					<latitude>36.00783229392037</latitude>
+					<altitude>0</altitude>
+					<heading>0.006905161441384691</heading>
+					<tilt>22.97391339393183</tilt>
+					<range>693.3482910403886</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-115.184364875513,36.0083644574746,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Deerfield (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-04-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-86.18658040000003</longitude>
+					<latitude>39.59773929999999</latitude>
+					<altitude>0</altitude>
+					<heading>1.868575875359816e-14</heading>
+					<tilt>0</tilt>
+					<range>1000.000000000435</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-86.1857915522678,39.59789455980941,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Del Webb BayView (Pulte)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-03-08</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-82.44402609210798</longitude>
+					<latitude>27.61156164481351</latitude>
+					<altitude>0</altitude>
+					<heading>-0.008564123400538019</heading>
+					<tilt>0</tilt>
+					<range>12220.87711389048</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-82.47483288024462,27.61127148231059,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Del Webb Carolina Gardens (Pulte)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-07-12</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-78.76694583511571</longitude>
+					<latitude>35.56026990990634</latitude>
+					<altitude>0</altitude>
+					<heading>0.00672001153329</heading>
+					<tilt>0</tilt>
+					<range>1601.302902418665</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-78.77078244411581,35.55930216939783,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Del Webb Tradition (Pulte)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-06-25</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-80.42900709999999</longitude>
+					<latitude>27.23323299999999</latitude>
+					<altitude>0</altitude>
+					<heading>-1.590277340731758e-15</heading>
+					<tilt>0</tilt>
+					<range>1000.582362095137</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-80.42871713669686,27.23386432749649,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>East Pointe (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-06-27</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-92.89099100000003</longitude>
+					<latitude>44.87589800000001</latitude>
+					<altitude>0</altitude>
+					<heading>-6.758678698109974e-15</heading>
+					<tilt>0</tilt>
+					<range>1000.000000000374</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-92.89099100000003,44.87589800000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ellis Acres (Lennar)</name>
+				<LookAt>
+					<longitude>-86.05379648600086</longitude>
+					<latitude>39.80156106335735</latitude>
+					<altitude>0</altitude>
+					<heading>6.800827272350906</heading>
+					<tilt>4.153438519297239</tilt>
+					<range>48694.09221248893</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-86.34272,39.93145,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Everly at Civita (Toll)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-06-20</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-117.144208667748</longitude>
+					<latitude>32.78149754496155</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0001313756180306248</heading>
+					<tilt>3.703067789922773</tilt>
+					<range>756.2091526387984</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-117.1458318547494,32.78040993081404,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fields of Winslow Cove (Lennar)</name>
+				<LookAt>
+					<longitude>-94.06380039534926</longitude>
+					<latitude>44.50697837873306</latitude>
+					<altitude>0</altitude>
+					<heading>0.9041720871199126</heading>
+					<tilt>0</tilt>
+					<range>371741.1641192014</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-93.28529000000002,45.26188,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Florin Gap (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-06-20</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-121.3721538296551</longitude>
+					<latitude>38.48781455796752</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0004357805152817726</heading>
+					<tilt>21.14966408415753</tilt>
+					<range>1318.728582218583</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-121.3738886170272,38.49026946653976,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Forest Grove (Hayden)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-05-31</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-117.4453284900279</longitude>
+					<latitude>47.73898387292188</latitude>
+					<altitude>0</altitude>
+					<heading>-0.01545592792232166</heading>
+					<tilt>17.56261053400627</tilt>
+					<range>932.943743244853</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-117.4433292334696,47.73965632123753,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Geist Manor (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-04-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-85.88892682412268</longitude>
+					<latitude>39.95811939504976</latitude>
+					<altitude>0</altitude>
+					<heading>-0.002158085369937222</heading>
+					<tilt>23.26206143282433</tilt>
+					<range>1034.398042468959</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-85.88965631136702,39.95671683284093,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Harpers Mill (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-03-05</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-77.69755256270135</longitude>
+					<latitude>37.37392491292341</latitude>
+					<altitude>0</altitude>
+					<heading>0.004614598335652455</heading>
+					<tilt>11.36642153255528</tilt>
+					<range>1986.517824756274</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-77.68869706045824,37.37856147788789,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Highlands at St. Charles (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-05-14</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-76.92528601812876</longitude>
+					<latitude>38.56537821417133</latitude>
+					<altitude>0</altitude>
+					<heading>0.0121041381006957</heading>
+					<tilt>3.064754991889172</tilt>
+					<range>3668.309337882064</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-76.93083924530529,38.56242008330975,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hills at Warren (Hovnanian)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-07-12</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-74.45175966308848</longitude>
+					<latitude>40.65443329736981</latitude>
+					<altitude>0</altitude>
+					<heading>0.03365856849060837</heading>
+					<tilt>24.11451432749842</tilt>
+					<range>1522.23014229429</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-74.45278527623779,40.65415507891895,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hilltop Meadows (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-06-27</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-98.13077533325662</longitude>
+					<latitude>29.6430437304576</latitude>
+					<altitude>0</altitude>
+					<heading>0.007399349099924825</heading>
+					<tilt>30.00612597425961</tilt>
+					<range>1363.892828214936</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.12917487833708,29.64392187845233,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Holly Springs (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-03-15</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-86.07763659999998</longitude>
+					<latitude>39.5928388</latitude>
+					<altitude>0</altitude>
+					<heading>8.34895603884173e-15</heading>
+					<tilt>0</tilt>
+					<range>1000.000000000586</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-86.07624764365349,39.59277602600267,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Iron Gate (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-05-22</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-87.10724079999997</longitude>
+					<latitude>41.50574760000001</latitude>
+					<altitude>0</altitude>
+					<heading>-2.107117476469579e-14</heading>
+					<tilt>0</tilt>
+					<range>1000.000000003108</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-87.10724079999997,41.50574760000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Jasper Point (Beazer)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-06-30</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-115.0348608</longitude>
+					<latitude>36.07568089999999</latitude>
+					<altitude>0</altitude>
+					<heading>-6.361109362927034e-15</heading>
+					<tilt>0</tilt>
+					<range>1000.000000000464</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-115.0349343694721,36.07509618809761,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Juniper Trails (Beazer)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-06-30</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-114.964481913394</longitude>
+					<latitude>36.02236045011615</latitude>
+					<altitude>0</altitude>
+					<heading>1.101162100152254e-09</heading>
+					<tilt>0</tilt>
+					<range>1008.640970438244</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-114.964481913394,36.02236045011615,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lago East (Land Tejas)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-05-02</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-95.0502331539937</longitude>
+					<latitude>29.43585915875792</latitude>
+					<altitude>0</altitude>
+					<heading>0.1578085149958513</heading>
+					<tilt>6.531535659420109</tilt>
+					<range>4373.304625014908</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-95.04500696971192,29.43323422343394,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lakeside at Sutter Pointe - Solaris (Lennar)</name>
+				<Camera>
+					<gx:TimeStamp><when>2023-04-23</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-121.2269273602111</longitude>
+					<latitude>37.61806796046666</latitude>
+					<altitude>405243.3660327798</altitude>
+					<heading>-49.93299627088413</heading>
+					<tilt>0.03275073231016107</tilt>
+					<roll>-45.02338198469934</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-121.49242,38.75828,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Legacy at Lucas Valley (Haven Development)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-05-02</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-122.544505149369</longitude>
+					<latitude>38.02688291585483</latitude>
+					<altitude>0</altitude>
+					<heading>0.01257748809416681</heading>
+					<tilt>34.70497597412985</tilt>
+					<range>867.2490116930759</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-122.54389058897,38.02550677854174,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Liberty Hill Farm (Hovnanian)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-03-05</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-79.80194021081233</longitude>
+					<latitude>32.83299065282293</latitude>
+					<altitude>0</altitude>
+					<heading>-0.001354317276340127</heading>
+					<tilt>0</tilt>
+					<range>4771.760104129353</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-79.79833827817872,32.83095720172295,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Long Savannah (Pulte)</name>
+				<LookAt>
+					<longitude>-80.1262028596272</longitude>
+					<latitude>32.82978689003512</latitude>
+					<altitude>0</altitude>
+					<heading>1.739722827540294</heading>
+					<tilt>18.14902900350251</tilt>
+					<range>8049.84666708027</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-80.1262028596272,32.82978689003512,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Loudoun Place (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-03-15</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-85.96199355910218</longitude>
+					<latitude>39.83965153060828</latitude>
+					<altitude>0</altitude>
+					<heading>-2.548737493990789e-11</heading>
+					<tilt>0</tilt>
+					<range>1002.14677320944</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-85.9619935591022,39.83965153060828,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Milford Park (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-04-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-85.88892682412268</longitude>
+					<latitude>39.95811939504976</latitude>
+					<altitude>0</altitude>
+					<heading>-0.002158085369937222</heading>
+					<tilt>23.26206143282433</tilt>
+					<range>1034.398042468959</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-85.88937476272486,39.96146262905879,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mill Creek (Toll)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-06-25</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-81.59974031500276</longitude>
+					<latitude>30.05320168412676</latitude>
+					<altitude>0</altitude>
+					<heading>0.002931057787481194</heading>
+					<tilt>0.01052611747618045</tilt>
+					<range>2059.678579648707</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-81.5955110633995,30.05446046890494,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Morris (Davidson)</name>
+				<Camera>
+					<gx:TimeStamp><when>2023-04-23</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-81.35377782438285</longitude>
+					<latitude>35.45912304578712</latitude>
+					<altitude>882611.4152069315</altitude>
+					<heading>-82.23439678991636</heading>
+					<tilt>0.02361938777558006</tilt>
+					<roll>-101.6255200704232</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-78.49609,35.99928,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mt. Prospect (Toll)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-05-14</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-77.25307049999998</longitude>
+					<latitude>39.08421510000002</latitude>
+					<altitude>0</altitude>
+					<heading>-3.180554681463515e-15</heading>
+					<tilt>0</tilt>
+					<range>999.9999999977859</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-77.25360675022553,39.08612119975638,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Nakase (Toll)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-04-23</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-117.6676747688967</longitude>
+					<latitude>33.67109139466348</latitude>
+					<altitude>0</altitude>
+					<heading>4.933676421886207e-10</heading>
+					<tilt>0</tilt>
+					<range>1016.281225178139</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-117.6676747688967,33.67109139466348,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Nashville Portfolio - Heritage Creek (Goodall)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-06-27</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-86.75736899715619</longitude>
+					<latitude>36.28211066804255</latitude>
+					<altitude>0</altitude>
+					<heading>7.591450089036263e-09</heading>
+					<tilt>0</tilt>
+					<range>1019.580525621591</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-86.75736899715619,36.28211066804255,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Nashville Portfolio - Kensington Downs (Goodall)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-07-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-86.50648481920213</longitude>
+					<latitude>36.37977822583409</latitude>
+					<altitude>0</altitude>
+					<heading>-0.002136677767796871</heading>
+					<tilt>14.60374919808969</tilt>
+					<range>944.3829857273296</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-86.50804411164638,36.379317130869,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Nashville Portfolio - Langford Farms (Goodall)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-06-27</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-86.45786948395212</longitude>
+					<latitude>36.41412992311952</latitude>
+					<altitude>0</altitude>
+					<heading>0.002048310432499833</heading>
+					<tilt>0</tilt>
+					<range>1318.239763467932</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-86.45707938065222,36.41504004066033,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Nashville Portfolio - Smith Farm (Goodall)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-06-27</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-86.49442909999998</longitude>
+					<latitude>35.8944353</latitude>
+					<altitude>0</altitude>
+					<heading>1.033680271475643e-14</heading>
+					<tilt>0</tilt>
+					<range>999.9999999993698</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-86.49442909999999,35.89443530000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Nashville Portfolio - The Preserve (Goodall)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-06-27</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-86.40444889999996</longitude>
+					<latitude>36.2434574</latitude>
+					<altitude>0</altitude>
+					<heading>-4.770832022195274e-15</heading>
+					<tilt>0</tilt>
+					<range>1000.000000000028</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-86.40444889999995,36.2434574,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>North Park Isles (EPG)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-05-02</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-82.10951931947187</longitude>
+					<latitude>28.05528875356851</latitude>
+					<altitude>0</altitude>
+					<heading>0.1233467935252285</heading>
+					<tilt>25.15677051260681</tilt>
+					<range>5794.36344258328</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-82.10795955416593,28.05831272109625,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Northgate (Ashton Woods)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-07-19</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-97.89481420152754</longitude>
+					<latitude>30.70193272780796</latitude>
+					<altitude>0</altitude>
+					<heading>1.473044854629155</heading>
+					<tilt>8.194517745524593</tilt>
+					<range>3900.730234071467</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-97.90085362215272,30.7045791457125,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Oakfield Trails (WestBay)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-03-08</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-82.44402609210798</longitude>
+					<latitude>27.61156164481351</latitude>
+					<altitude>0</altitude>
+					<heading>-0.008564123400538019</heading>
+					<tilt>0</tilt>
+					<range>12220.87711389048</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-82.46198236684737,27.61143700257816,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Oaks at Kelly Park (Toll)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2021-11-30</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-81.54813181076801</longitude>
+					<latitude>28.76036605577611</latitude>
+					<altitude>0</altitude>
+					<heading>-0.1142500145521222</heading>
+					<tilt>26.16429375712838</tilt>
+					<range>1317.354312523296</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-81.54972580987089,28.75852374201957,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Olive Ridge (David Weekley)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-07-12</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-78.94098220000002</longitude>
+					<latitude>35.6942281</latitude>
+					<altitude>0</altitude>
+					<heading>7.951386703658792e-15</heading>
+					<tilt>0</tilt>
+					<range>999.9999999999302</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-78.93837081961117,35.69362353652046,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Palm Vista (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-03-08</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-80.73015805578892</longitude>
+					<latitude>28.02309594965972</latitude>
+					<altitude>0</altitude>
+					<heading>-0.06480262881937558</heading>
+					<tilt>7.738704620470598</tilt>
+					<range>3202.769393667007</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-80.73443007929842,28.01891467976224,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parkside (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-07-19</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-98.0430551</longitude>
+					<latitude>29.66337219999999</latitude>
+					<altitude>0</altitude>
+					<heading>-6.361109362927034e-15</heading>
+					<tilt>0</tilt>
+					<range>999.9999999998226</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.0418917899915,29.66311782856797,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Patapsco Glen (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2022-07-04</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-76.7793958</longitude>
+					<latitude>39.3141737</latitude>
+					<altitude>0</altitude>
+					<heading>-1.90833280887811e-14</heading>
+					<tilt>0</tilt>
+					<range>1000.000000002179</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-76.77959221046021,39.31442806594151,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Penrose (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2021-09-29</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-86.4645886</longitude>
+					<latitude>39.77296110000001</latitude>
+					<altitude>0</altitude>
+					<heading>-1.232464939067113e-14</heading>
+					<tilt>0</tilt>
+					<range>1000.000000000329</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-86.46458860000001,39.77296110000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pinebrook Crossing (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-07-12</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-74.35449293759964</longitude>
+					<latitude>40.31357628584354</latitude>
+					<altitude>0</altitude>
+					<heading>0.002080170965669349</heading>
+					<tilt>18.38454677618767</tilt>
+					<range>1306.396012756753</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-74.35770542816303,40.31192094519925,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pioneer Commons (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-06-27</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-93.08081354043243</longitude>
+					<latitude>45.03250348064918</latitude>
+					<altitude>0</altitude>
+					<heading>0.006071853742504192</heading>
+					<tilt>9.523055423365568</tilt>
+					<range>1258.257713004763</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-93.0805031712341,45.03348245343198,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Placer Vineyards (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-06-20</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-121.365465</longitude>
+					<latitude>38.74795409999999</latitude>
+					<altitude>0</altitude>
+					<heading>-2.226388277024462e-14</heading>
+					<tilt>0</tilt>
+					<range>1000.000000001748</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-121.365465,38.74795409999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Redhawk (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-06-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-81.0658060131742</longitude>
+					<latitude>35.20309138011237</latitude>
+					<altitude>0</altitude>
+					<heading>-0.1240554542081676</heading>
+					<tilt>19.25150806928034</tilt>
+					<range>2313.363300103029</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-81.06675429475213,35.20608293337484,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Reserve at Autumn Woods (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-06-27</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-93.57359790600285</longitude>
+					<latitude>44.8338249443394</latitude>
+					<altitude>0</altitude>
+					<heading>-7.092533174067159e-09</heading>
+					<tilt>0</tilt>
+					<range>1124.792958352732</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-93.57359790600283,44.8338249443394,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>River Ranch (Land Tejas)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-05-02</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-94.88731160416607</longitude>
+					<latitude>29.96187032703217</latitude>
+					<altitude>0</altitude>
+					<heading>0.2477176218766085</heading>
+					<tilt>10.04487558730671</tilt>
+					<range>13666.50738056072</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-94.88714228174787,29.9739464717156,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Royal Golf Club (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-06-27</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-92.87008074992184</longitude>
+					<latitude>44.97424262517571</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0005687905267684786</heading>
+					<tilt>0</tilt>
+					<range>2268.843453341491</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-92.87953109719361,44.971896176222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sapphire Ridge (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2022-08-07</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-86.04394659227368</longitude>
+					<latitude>39.68273222970165</latitude>
+					<altitude>0</altitude>
+					<heading>-6.953566391077979e-08</heading>
+					<tilt>0</tilt>
+					<range>1000.269378790557</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-86.04394659227368,39.68273222970164,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Savanna Lakes (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2021-11-30</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-81.63069740392972</longitude>
+					<latitude>26.56788225534081</latitude>
+					<altitude>0</altitude>
+					<heading>0.0001993480895502281</heading>
+					<tilt>0</tilt>
+					<range>1339.890704179158</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-81.63102402893185,26.56680667150599,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Seven Pines (David Weekley)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-06-25</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-81.49410189999998</longitude>
+					<latitude>30.24742280000001</latitude>
+					<altitude>0</altitude>
+					<heading>1.033680271475643e-14</heading>
+					<tilt>0</tilt>
+					<range>999.9999999989983</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-81.4968093238552,30.24601879335069,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Seven Pines (ICI Homes)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-06-25</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-81.49410189999998</longitude>
+					<latitude>30.24742280000001</latitude>
+					<altitude>0</altitude>
+					<heading>1.033680271475643e-14</heading>
+					<tilt>0</tilt>
+					<range>999.9999999989983</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-81.49410189999999,30.24742280000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Skye Meadows (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-06-27</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-93.57307439999995</longitude>
+					<latitude>45.17903680000001</latitude>
+					<altitude>0</altitude>
+					<heading>-1.987846675914698e-15</heading>
+					<tilt>0</tilt>
+					<range>1000.000000000134</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-93.57307439999995,45.17903680000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Station East (Lennar - Solaris)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-06-20</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-122.017378974302</longitude>
+					<latitude>37.59706086320799</latitude>
+					<altitude>0</altitude>
+					<heading>0.0002424771645165261</heading>
+					<tilt>20.69406828792208</tilt>
+					<range>348.0795308424395</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-122.017378974302,37.59706086320799,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sterling Vista (Hovnanian)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-04-23</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-112.123132</longitude>
+					<latitude>33.73351150000001</latitude>
+					<altitude>0</altitude>
+					<heading>-1.590277340731758e-15</heading>
+					<tilt>0</tilt>
+					<range>999.9999999987666</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-112.124371353817,33.73382532247047,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Stonegate (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-03-08</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-82.4882666849953</longitude>
+					<latitude>27.6202715512743</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0292772775106007</heading>
+					<tilt>13.55738546322704</tilt>
+					<range>3189.529507106947</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-82.48826668499531,27.6202715512743,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Storey Creek (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2021-11-30</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-81.45293705082597</longitude>
+					<latitude>28.24527238213683</latitude>
+					<altitude>0</altitude>
+					<heading>0.003312758899105868</heading>
+					<tilt>0</tilt>
+					<range>3726.314021268965</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-81.44871714600308,28.24410267495788,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Streamside (David Weekley)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-07-12</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-80.74763978466164</longitude>
+					<latitude>34.95701337415427</latitude>
+					<altitude>0</altitude>
+					<heading>-3.000288157393931e-08</heading>
+					<tilt>0</tilt>
+					<range>1038.082091406889</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-80.74763978466164,34.95701337415426,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sugarloaf (Lennar - Solaris)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2021-11-30</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-81.73089079822921</longitude>
+					<latitude>28.63299900087637</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0003597565402532383</heading>
+					<tilt>0</tilt>
+					<range>3687.721999118064</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-81.73416647947342,28.63517956946257,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sugarloaf P8 (Lennar - Solaris)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2021-11-30</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-81.73089079822921</longitude>
+					<latitude>28.63299900087637</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0003597565402532383</heading>
+					<tilt>0</tilt>
+					<range>3687.721999118064</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-81.7204251403345,28.63508186598451,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Summerlyn Village (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-06-16</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-80.65337461113812</longitude>
+					<latitude>35.49487074606917</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0200766284164492</heading>
+					<tilt>11.2904227244685</tilt>
+					<range>6004.182770646813</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-80.65741932958358,35.49173032289752,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sundance Greens North (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-06-27</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-93.4645383</longitude>
+					<latitude>45.1563931</latitude>
+					<altitude>0</altitude>
+					<heading>6.758678698109972e-15</heading>
+					<tilt>0</tilt>
+					<range>999.9999999986168</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-93.4645383,45.1563931,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sweetwater Glen 2.0 (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-05-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-116.5639786010476</longitude>
+					<latitude>43.63564522346438</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0004793467394571565</heading>
+					<tilt>24.94440155849734</tilt>
+					<range>3530.697448821962</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-116.5661223681073,43.63622858182767,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sycamore Chase (Beazer)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-04-21</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-75.12950819999998</longitude>
+					<latitude>38.50825860000001</latitude>
+					<altitude>0</altitude>
+					<heading>-1.113194138512231e-14</heading>
+					<tilt>0</tilt>
+					<range>999.999999999158</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-75.12950819999998,38.50825860000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Talamore (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-06-27</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-93.07503600270606</longitude>
+					<latitude>44.7437925321239</latitude>
+					<altitude>0</altitude>
+					<heading>1.414548116456882e-09</heading>
+					<tilt>0</tilt>
+					<range>1018.23950557298</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-93.07503600270606,44.7437925321239,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tavola West (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-07-19</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-95.20447609953057</longitude>
+					<latitude>30.16886686733091</latitude>
+					<altitude>0</altitude>
+					<heading>-0.002266258077902092</heading>
+					<tilt>1.033141838894132</tilt>
+					<range>1527.284029074852</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-95.20887731975033,30.17102749241363,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Ridge at Apopka (Toll)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-04</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-81.5384558212298</longitude>
+					<latitude>28.66231820847944</latitude>
+					<altitude>0</altitude>
+					<heading>-0.08509130840497049</heading>
+					<tilt>17.99254856384771</tilt>
+					<range>1722.911378487415</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-81.53982333160391,28.66295251048762,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tracy Lakes (Toll)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-06-20</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-121.4475795</longitude>
+					<latitude>37.70683510000001</latitude>
+					<altitude>0</altitude>
+					<heading>-9.54166404439055e-15</heading>
+					<tilt>0</tilt>
+					<range>1000.000000001711</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-121.4475795,37.70683510000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Two Rivers South (EPG)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-05-02</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-82.23342392953226</longitude>
+					<latitude>28.17573844023319</latitude>
+					<altitude>0</altitude>
+					<heading>0.04955657370477277</heading>
+					<tilt>27.51062342650538</tilt>
+					<range>9172.199494539653</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-82.23872276444796,28.16750242239423,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Verde Trails (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-04-23</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-112.3015466</longitude>
+					<latitude>33.40575630000001</latitude>
+					<altitude>0</altitude>
+					<heading>-0</heading>
+					<tilt>0</tilt>
+					<range>1000.000000003275</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-112.3014991133974,33.40573978271248,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Village at Coral Mountain (Beazer)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-04-23</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-116.2633002</longitude>
+					<latitude>33.62663570000002</latitude>
+					<altitude>0</altitude>
+					<heading>-1.113194138512231e-14</heading>
+					<tilt>0</tilt>
+					<range>1000.000000002064</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-116.2633002,33.62663570000002,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Villages of Westport (Lennar - Solaris)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-06-25</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-81.76279897995811</longitude>
+					<latitude>30.46157042863596</latitude>
+					<altitude>0</altitude>
+					<heading>-0.002648238840673138</heading>
+					<tilt>6.950125048495193</tilt>
+					<range>3424.152478874829</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-81.74891268789278,30.46304902936468,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Voss Farms (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-06-27</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-98.13131711697966</longitude>
+					<latitude>29.66202993707077</latitude>
+					<altitude>0</altitude>
+					<heading>-0.002283907352244999</heading>
+					<tilt>9.644694018574528</tilt>
+					<range>1439.923712289123</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.13131711697964,29.66202993707076,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Voyageur Farms (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-06-27</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-93.21543745225502</longitude>
+					<latitude>44.68326637908482</latitude>
+					<altitude>0</altitude>
+					<heading>-4.272090037733649e-09</heading>
+					<tilt>0</tilt>
+					<range>1021.2045871857</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-93.215437452255,44.68326637908482,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Waterford Commons (Eastwood)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-07-12</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-80.93481889312672</longitude>
+					<latitude>34.94615458710585</latitude>
+					<altitude>0</altitude>
+					<heading>0.001988336964888027</heading>
+					<tilt>7.971083372562372</tilt>
+					<range>1159.792386402725</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-80.93273904956853,34.94531671491553,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Waterstone (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-07-19</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-97.85181240292064</longitude>
+					<latitude>29.94724649485022</latitude>
+					<altitude>0</altitude>
+					<heading>0.6376147488443891</heading>
+					<tilt>9.928344426250092</tilt>
+					<range>9755.721965240144</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-97.85655921298475,29.95128238771458,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Westhaven at Ovation (Toll)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-03-08</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-81.63773052073901</longitude>
+					<latitude>28.36970053805124</latitude>
+					<altitude>0</altitude>
+					<heading>-0.1217138932852125</heading>
+					<tilt>9.255528761567776</tilt>
+					<range>2002.324778656844</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-81.636432531119,28.36705298466762,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wendell (Davidson)</name>
+				<Camera>
+					<gx:TimeStamp><when>2023-04-23</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-81.35377782438285</longitude>
+					<latitude>35.45912304578712</latitude>
+					<altitude>882611.4152069315</altitude>
+					<heading>-82.23439678991636</heading>
+					<tilt>0.02361938777558006</tilt>
+					<roll>-101.6255200704232</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-78.39700000000001,35.776,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Willowbrooke (Lennar)</name>
+				<LookAt>
+					<longitude>-86.27201214589019</longitude>
+					<latitude>39.86082013728821</latitude>
+					<altitude>0</altitude>
+					<heading>6.660994339836168</heading>
+					<tilt>4.207452888397293</tilt>
+					<range>132616.8040074003</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-92.94477999999999,45.00486,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Winfield Park (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-07-19</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-97.52445419923531</longitude>
+					<latitude>30.55367840470522</latitude>
+					<altitude>0</altitude>
+					<heading>0.8627885441138082</heading>
+					<tilt>13.00996148710076</tilt>
+					<range>6604.048059064476</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-97.52770521817394,30.55872693352383,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wooddale (Lennar - Solaris)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-03-05</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-80.03242681213561</longitude>
+					<latitude>32.71243794913133</latitude>
+					<altitude>0</altitude>
+					<heading>-0.08237792256016259</heading>
+					<tilt>17.76624235944686</tilt>
+					<range>3214.045729378073</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-80.03607232749964,32.70965283779584,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Yosemite (Lennar - Solaris)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-06-20</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-121.1881740786111</longitude>
+					<latitude>37.79185065599344</latitude>
+					<altitude>0</altitude>
+					<heading>0.0170708643749236</heading>
+					<tilt>19.14832849571059</tilt>
+					<range>1146.732771200892</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-121.1868893922173,37.78968837063346,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Corbett Towns (Lennar)</name>
+				<LookAt>
+					<longitude>-86.47536750259366</longitude>
+					<latitude>40.07978349968191</latitude>
+					<altitude>0</altitude>
+					<heading>-1.669966138275827e-09</heading>
+					<tilt>0</tilt>
+					<range>1000.000011855326</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-86.47536750259366,40.07978349968191,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Eagle Springs (Lennar)</name>
+				<LookAt>
+					<longitude>-86.18356321066877</longitude>
+					<latitude>39.57714971886673</latitude>
+					<altitude>0</altitude>
+					<heading>1.007416841193458e-10</heading>
+					<tilt>0</tilt>
+					<range>1002.507727451668</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-86.18356321066877,39.57714971886673,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Liberty Village (Lennar)</name>
+				<LookAt>
+					<longitude>-86.4499400005998</longitude>
+					<latitude>40.08127699957473</latitude>
+					<altitude>0</altitude>
+					<heading>-3.8621515253945e-10</heading>
+					<tilt>0</tilt>
+					<range>1000.000034154201</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-86.4499400005998,40.08127699957472,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lincoln Place (Lennar)</name>
+				<LookAt>
+					<longitude>-86.09465154362229</longitude>
+					<latitude>39.58918323168061</latitude>
+					<altitude>0</altitude>
+					<heading>3.892655954957811e-05</heading>
+					<tilt>0</tilt>
+					<range>8238.939289738124</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-86.09465154362229,39.58918323168061,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Silverleaf (Lennar-Solaris)</name>
+				<LookAt>
+					<longitude>-81.50901979734759</longitude>
+					<latitude>30.01866984325933</latitude>
+					<altitude>0</altitude>
+					<heading>-25.80479384802305</heading>
+					<tilt>0</tilt>
+					<range>1000.000000000647</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-81.50901979734759,30.01866984325932,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Braddock Property (EPG)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-07-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-81.74552695451415</longitude>
+					<latitude>30.49890101329981</latitude>
+					<altitude>0</altitude>
+					<heading>0.3176346612055633</heading>
+					<tilt>19.37053768714721</tilt>
+					<range>12454.13588594373</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-81.7441689244332,30.4908504584756,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Two Rivers C1B (WestBay)</name>
+				<LookAt>
+					<gx:TimeSpan>
+						<begin>2023-04-15T23:59:59Z</begin>
+						<end>2023-04-16</end>
+					</gx:TimeSpan>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-82.22645327886671</longitude>
+					<latitude>28.18751219489658</latitude>
+					<altitude>0</altitude>
+					<heading>7.395680330285764</heading>
+					<tilt>21.57467645377799</tilt>
+					<range>1339.682995892033</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-82.22838152480598,28.18789192132523,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hillcrest Preserve (EPG)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-07-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-82.320559210382</longitude>
+					<latitude>28.33835075781952</latitude>
+					<altitude>0</altitude>
+					<heading>0.003532835966228678</heading>
+					<tilt>22.93543373294728</tilt>
+					<range>17984.33265079869</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-82.34795030153137,28.3285310338099,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Riversong (Pulte)</name>
+				<LookAt>
+					<longitude>-82.36667814754952</longitude>
+					<latitude>27.56558446156587</latitude>
+					<altitude>0</altitude>
+					<heading>7.324371833487905</heading>
+					<tilt>12.91719914627071</tilt>
+					<range>2684.659543110032</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-82.37063089560976,27.56309832097472,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Palmetto Ridge (EPG)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-07-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-82.37168243700087</longitude>
+					<latitude>28.34446843211706</latitude>
+					<altitude>0</altitude>
+					<heading>0.01490046358785042</heading>
+					<tilt>45.03095371422937</tilt>
+					<range>11248.37482287909</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-82.39446549772074,28.32880115071562,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Treymor (Pulte)</name>
+				<LookAt>
+					<longitude>-86.4862185865929</longitude>
+					<latitude>36.2633861900194</latitude>
+					<altitude>0</altitude>
+					<heading>5.52422119558855</heading>
+					<tilt>15.71186469749856</tilt>
+					<range>2726.794165073517</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-86.49089126587312,36.26273718977956,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pasadena Ridge (WestBay)</name>
+				<LookAt>
+					<longitude>-82.23745163766057</longitude>
+					<latitude>28.29220175369953</latitude>
+					<altitude>0</altitude>
+					<heading>7.639752335041354</heading>
+					<tilt>9.262173980176</tilt>
+					<range>3674.930887842602</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-82.23745163766056,28.29220175369953,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Marshfield (Beazer)</name>
+				<LookAt>
+					<longitude>-78.73870096518546</longitude>
+					<latitude>33.84748905749004</latitude>
+					<altitude>0</altitude>
+					<heading>9.691855905630739</heading>
+					<tilt>12.30595315729409</tilt>
+					<range>2139.227519226114</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-78.74577434070369,33.84626578010884,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Oaks (Maronda)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-03-08</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-83.37431298425366</longitude>
+					<latitude>40.20944955650317</latitude>
+					<altitude>0</altitude>
+					<heading>0.01266279424218225</heading>
+					<tilt>15.7611952599294</tilt>
+					<range>1199.247228095094</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-83.37572347563814,40.20914345241602,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kingfisher (Beazer)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2024-09-08</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-75.1633339379123</longitude>
+					<latitude>38.46669877683188</latitude>
+					<altitude>0</altitude>
+					<heading>11.91225012446699</heading>
+					<tilt>17.48093790789588</tilt>
+					<range>2657.382890283528</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-75.16465922053378,38.46563041747743,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Clayton Portfolio</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-97.6259793002007</longitude>
+				<latitude>30.39646650037765</latitude>
+				<altitude>0</altitude>
+				<heading>-1.0157657972323e-10</heading>
+				<tilt>0</tilt>
+				<range>1000.000025730701</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<Placemark>
+				<name>Abbington (Goodall)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-86.73971219999471</longitude>
+					<latitude>34.85995119909114</latitude>
+					<altitude>0</altitude>
+					<heading>2.968252656475827e-12</heading>
+					<tilt>0</tilt>
+					<range>994.7860439162903</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-86.73971219999471,34.85995119909114,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Arbor Valley (Goodall)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-86.88100239232418</longitude>
+					<latitude>35.7234828075469</latitude>
+					<altitude>0</altitude>
+					<heading>0.0009629071759690138</heading>
+					<tilt>27.12119380644573</tilt>
+					<range>2557.822778047727</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-86.88224175542709,35.72225603270435,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Banning Lewis Ranch (Oakwood)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-104.6567020010894</longitude>
+					<latitude>38.92919799628102</latitude>
+					<altitude>0</altitude>
+					<heading>-6.845539646460743e-10</heading>
+					<tilt>0</tilt>
+					<range>999.9999625460707</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-104.6567020010894,38.92919799628102,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Banning Lewis Ranch - LUD (Oakwood)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-104.6567020010894</longitude>
+					<latitude>38.92919799628102</latitude>
+					<altitude>0</altitude>
+					<heading>-6.845539646460743e-10</heading>
+					<tilt>0</tilt>
+					<range>999.9999625460707</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-104.6567020010894,38.92919799628102,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Banning Lewis Ranch - Walton (LUD) (Oakwood)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-104.6567020010894</longitude>
+					<latitude>38.92919799628102</latitude>
+					<altitude>0</altitude>
+					<heading>-6.845539646460743e-10</heading>
+					<tilt>0</tilt>
+					<range>999.9999625460707</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-104.6567020010894,38.92919799628102,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Banning Lewis Ranch - Walton (VDL) (Oakwood)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-104.6567020010894</longitude>
+					<latitude>38.92919799628102</latitude>
+					<altitude>0</altitude>
+					<heading>-6.845539646460743e-10</heading>
+					<tilt>0</tilt>
+					<range>999.9999625460707</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-104.6567020010894,38.92919799628102,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BlackRidge 2 (Harris Doyle)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-86.87437030005118</longitude>
+					<latitude>33.3170050999953</latitude>
+					<altitude>0</altitude>
+					<heading>-2.810974227477457e-11</heading>
+					<tilt>0</tilt>
+					<range>998.9140676824937</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-86.87458055555555,33.3165989817384,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Blue Ridge (Goodall)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-86.49311904422322</longitude>
+					<latitude>34.80856040940545</latitude>
+					<altitude>0</altitude>
+					<heading>3.352781717464765e-10</heading>
+					<tilt>0</tilt>
+					<range>1003.31767624559</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-86.49311904422322,34.80856040940546,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bridgeport (Highland)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-81.98664979933218</longitude>
+					<latitude>27.99209140930541</latitude>
+					<altitude>0</altitude>
+					<heading>-9.166963692506e-09</heading>
+					<tilt>0</tilt>
+					<range>1051.820959259214</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-81.98664979933218,27.99209140930541,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Clear Creek (Brohn)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-97.71939379994701</longitude>
+					<latitude>30.52867440046709</latitude>
+					<altitude>0</altitude>
+					<heading>2.689874607980733e-11</heading>
+					<tilt>0</tilt>
+					<range>995.4395018521926</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-97.71939379994703,30.52867440046709,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cobey Creek (Summit)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-94.3915093994883</longitude>
+					<latitude>38.85473720022767</latitude>
+					<altitude>0</altitude>
+					<heading>-7.05351611708164e-11</heading>
+					<tilt>0</tilt>
+					<range>995.3702209011752</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-94.3915093994883,38.85473720022767,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cottages at Bradley Creek (Mungo)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-77.85233570007523</longitude>
+					<latitude>34.22414329995942</latitude>
+					<altitude>0</altitude>
+					<heading>-4.232364114623502e-11</heading>
+					<tilt>0</tilt>
+					<range>998.5138989899947</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-77.85233570007523,34.22414329995942,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cross Creek (Brohn)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-97.8120722245735</longitude>
+					<latitude>30.51951386340333</latitude>
+					<altitude>0</altitude>
+					<heading>-4.235258419383634e-10</heading>
+					<tilt>0</tilt>
+					<range>1003.7831325698</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-97.8120722245735,30.51951386340334,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Crossings (Highland)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-81.97201099976613</longitude>
+					<latitude>28.14606799989426</latitude>
+					<altitude>0</altitude>
+					<heading>1.103199245425732e-10</heading>
+					<tilt>0</tilt>
+					<range>995.2714383695848</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-81.97201099976611,28.14606799989425,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Daybreak (Oakwood)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-112.0360712998103</longitude>
+					<latitude>40.54030060021073</latitude>
+					<altitude>0</altitude>
+					<heading>1.232942022269332e-10</heading>
+					<tilt>0</tilt>
+					<range>994.2749776141817</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-112.0360712998103,40.54030060021073,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Eastbrooke (Summit)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-94.45531330015241</longitude>
+					<latitude>38.80390579999708</latitude>
+					<altitude>0</altitude>
+					<heading>-9.548144424554033e-11</heading>
+					<tilt>0</tilt>
+					<range>993.4051766554775</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-94.45520555555557,38.803818606788,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Edgebrook (Brohn)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-97.62598005403898</longitude>
+					<latitude>30.39646699881271</latitude>
+					<altitude>0</altitude>
+					<heading>1.091119498745533e-09</heading>
+					<tilt>0</tilt>
+					<range>1019.588333489683</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-97.62598005403898,30.39646699881271,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Edgewater (Summit)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-94.26632709873758</longitude>
+					<latitude>38.94799549785458</latitude>
+					<altitude>0</altitude>
+					<heading>7.935511760104937e-10</heading>
+					<tilt>0</tilt>
+					<range>1000.000036516263</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-94.26632709873759,38.94799549785458,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Erie Highlands (Oakwood)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-105.0358563004625</longitude>
+					<latitude>40.0448692995284</latitude>
+					<altitude>0</altitude>
+					<heading>-2.975790571070896e-10</heading>
+					<tilt>0</tilt>
+					<range>992.9445904316381</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-105.0358563004625,40.0448692995284,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Foodwood Ranch (Summit)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-94.80612250016307</longitude>
+					<latitude>38.78344789975385</latitude>
+					<altitude>0</altitude>
+					<heading>-1.021303938071398e-10</heading>
+					<tilt>0</tilt>
+					<range>1000.00003894944</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-94.80612250016307,38.78344789975385,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fowler (Mungo)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-78.78608189987978</longitude>
+					<latitude>35.95707899976559</latitude>
+					<altitude>14.73357926710917</altitude>
+					<heading>7.059956740311604e-11</heading>
+					<tilt>0</tilt>
+					<range>985.2664277969479</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-78.78608189987978,35.95707899976559,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Gardens at Lancaster (Highland)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-81.22180555812687</longitude>
+					<latitude>28.25601278681863</latitude>
+					<altitude>0</altitude>
+					<heading>4.012432654579783e-08</heading>
+					<tilt>0</tilt>
+					<range>1025.431862368529</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-81.22180555812686,28.25601278681863,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Geneva (Highland)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-81.62266799983364</longitude>
+					<latitude>28.13870999977077</latitude>
+					<altitude>0</altitude>
+					<heading>7.842214164217553e-11</heading>
+					<tilt>0</tilt>
+					<range>998.5020874019756</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-81.62266799983362,28.13870999977077,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Gracelyn Grove (Highland)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-81.60610754760711</longitude>
+					<latitude>28.09918097188868</latitude>
+					<altitude>0</altitude>
+					<heading>-1.849909517989775e-08</heading>
+					<tilt>0</tilt>
+					<range>1065.827346684196</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-81.60610754760711,28.09918097188869,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Green Valley Ranch (Oakwood)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-104.7329644451043</longitude>
+					<latitude>39.78413339572492</latitude>
+					<altitude>0</altitude>
+					<heading>4.468202244254021e-10</heading>
+					<tilt>0</tilt>
+					<range>1007.775551596639</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-104.7329644451043,39.78413339572491,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Green Valley Ranch East (Oakwood)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-104.732964499843</longitude>
+					<latitude>39.78413340060864</latitude>
+					<altitude>0</altitude>
+					<heading>1.004848543288176e-10</heading>
+					<tilt>0</tilt>
+					<range>999.9999715699884</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-104.732964499843,39.78413340060864,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Harrison Glen (Goodall)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-84.28308190000344</longitude>
+					<latitude>35.80142800033395</latitude>
+					<altitude>0</altitude>
+					<heading>-2.03277201079037e-12</heading>
+					<tilt>0</tilt>
+					<range>992.193570184618</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-84.28308190000345,35.80142800033395,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Harvest Ridge (Brohn)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-97.39811282358232</longitude>
+					<latitude>30.36843515701349</latitude>
+					<altitude>0</altitude>
+					<heading>-3.071932616523775e-08</heading>
+					<tilt>0</tilt>
+					<range>1030.160428937459</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-97.39811282358232,30.36843515701349,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hawthorn Ridge (Summit)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-94.41013137910774</longitude>
+					<latitude>38.86709818313108</latitude>
+					<altitude>0</altitude>
+					<heading>-2.841746094020615e-11</heading>
+					<tilt>0</tilt>
+					<range>1005.032888882484</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-94.41013137910772,38.86709818313108,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hillsong (Harris Doyle)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-86.62957309492568</longitude>
+					<latitude>33.40213104381787</latitude>
+					<altitude>13.91944602372147</altitude>
+					<heading>2.73813431711365e-08</heading>
+					<tilt>0</tilt>
+					<range>1016.79500624114</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-86.62957309492568,33.40213104381787,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Holly Farm (Summit)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-94.59329919996016</longitude>
+					<latitude>39.29000449982465</latitude>
+					<altitude>0</altitude>
+					<heading>2.513830906361727e-11</heading>
+					<tilt>0</tilt>
+					<range>993.2883114668155</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-94.59329919996016,39.29000449982465,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ivey Farms (Goodall)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-84.21221422957419</longitude>
+					<latitude>35.87181849261582</latitude>
+					<altitude>0</altitude>
+					<heading>-1.63987411529583e-10</heading>
+					<tilt>0</tilt>
+					<range>1009.975743394004</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-84.2122142295742,35.87181849261582,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Jackson Crossing (Highland)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-82.53560164564662</longitude>
+					<latitude>27.56646520616147</latitude>
+					<altitude>0</altitude>
+					<heading>-7.043496892751828e-08</heading>
+					<tilt>0</tilt>
+					<range>1164.720712726478</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-82.53560164564662,27.56646520616147,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lakeside Preserve (Highland)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-81.98633176438894</longitude>
+					<latitude>27.99177034891019</latitude>
+					<altitude>0</altitude>
+					<heading>-1.405378179740888e-09</heading>
+					<tilt>0</tilt>
+					<range>1021.351238081115</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-81.98633176438892,27.99177034891019,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Langford (Goodall)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-86.46009520003496</longitude>
+					<latitude>36.42424170010781</latitude>
+					<altitude>0</altitude>
+					<heading>-2.076544394594012e-11</heading>
+					<tilt>0</tilt>
+					<range>1000.000008805156</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-86.46009520003494,36.42424170010781,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Monon Corner (Arbor)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-86.15482689862928</longitude>
+					<latitude>40.0611761144748</latitude>
+					<altitude>0</altitude>
+					<heading>8.821741516547931e-10</heading>
+					<tilt>0</tilt>
+					<range>27557.95500572201</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-86.1595073470027,40.09690000000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Morning Star (Brohn)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-97.8232426895002</longitude>
+					<latitude>30.64465968878243</latitude>
+					<altitude>0</altitude>
+					<heading>7.671583575833123e-07</heading>
+					<tilt>0</tilt>
+					<range>1788.811112873441</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-97.8232426895002,30.64465968878243,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>North Copper Canyon (Oakwood)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-112.4477267018674</longitude>
+					<latitude>33.74139119815034</latitude>
+					<altitude>0</altitude>
+					<heading>-1.037224999668134e-09</heading>
+					<tilt>0</tilt>
+					<range>999.999989523505</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-112.4477267018674,33.74139119815035,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>North Copper Canyon - LUD (Oakwood)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-112.4477267018674</longitude>
+					<latitude>33.74139119815034</latitude>
+					<altitude>0</altitude>
+					<heading>-1.037224999668134e-09</heading>
+					<tilt>0</tilt>
+					<range>999.999989523505</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-112.4477267018674,33.74139119815035,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Old Heritage (Arbor)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-85.19911919260743</longitude>
+					<latitude>38.20219792176756</latitude>
+					<altitude>0</altitude>
+					<heading>8.950655361327671e-09</heading>
+					<tilt>0</tilt>
+					<range>1013.737834781736</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-85.19911919260743,38.20219792176756,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Orchard View (Arbor)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-86.17896199339037</longitude>
+					<latitude>40.04615480193244</latitude>
+					<altitude>0</altitude>
+					<heading>1.887619446515078e-11</heading>
+					<tilt>0</tilt>
+					<range>1009.650054941621</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-86.17896199339036,40.04615480193245,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ponderosa (Chafin)</name>
+				<visibility>0</visibility>
+				<Camera>
+					<gx:TimeStamp><when>2023-07-19</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-82.9674002230952</longitude>
+					<latitude>34.39661958667678</latitude>
+					<altitude>1278098.828526324</altitude>
+					<heading>6.826766052720474</heading>
+					<tilt>0.6558286146492684</tilt>
+					<roll>-1.750809617250215</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-83.82294444444445,34.17338888888889,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rosewood Lake (Chafin)</name>
+				<visibility>0</visibility>
+				<Camera>
+					<gx:TimeStamp><when>2023-07-19</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-82.9674002230952</longitude>
+					<latitude>34.39661958667678</latitude>
+					<altitude>1278098.828526324</altitude>
+					<heading>6.826766052720474</heading>
+					<tilt>0.6558286146492684</tilt>
+					<roll>-1.750809617250215</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-83.7428865354223,34.10728611111112,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Royal Oaks (Arbor)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-85.45770649925558</longitude>
+					<latitude>38.30106850043488</latitude>
+					<altitude>0</altitude>
+					<heading>4.613903454211865e-10</heading>
+					<tilt>0</tilt>
+					<range>2216.408850706597</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-85.45770649925558,38.30106850043488,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sanctuary Falls (Arbor)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-85.5690802999363</longitude>
+					<latitude>38.34262030014492</latitude>
+					<altitude>0</altitude>
+					<heading>3.950050129710097e-11</heading>
+					<tilt>0</tilt>
+					<range>1000.000023522103</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-85.56908029993629,38.34262030014493,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Silver Shores (Highland)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-82.14633959944375</longitude>
+					<latitude>29.15000905497506</latitude>
+					<altitude>0</altitude>
+					<heading>2.709077206870069e-10</heading>
+					<tilt>0</tilt>
+					<range>15406.00130092838</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-82.142983,29.17863888888889,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Silver Stream (Arbor)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-85.95632067518979</longitude>
+					<latitude>39.87276463245605</latitude>
+					<altitude>0</altitude>
+					<heading>2.009914557002698e-09</heading>
+					<tilt>0</tilt>
+					<range>1024.310771542552</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-85.9804918031776,39.84158611111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Somerbrook (Summit)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-94.46446719799719</longitude>
+					<latitude>39.3056495026866</latitude>
+					<altitude>0</altitude>
+					<heading>1.259810553079665e-09</heading>
+					<tilt>0</tilt>
+					<range>1001.246069685103</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-94.46446719799719,39.3056495026866,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Southpointe (Summit)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-94.73921309990698</longitude>
+					<latitude>38.81590259972135</latitude>
+					<altitude>0</altitude>
+					<heading>5.826338850172461e-11</heading>
+					<tilt>0</tilt>
+					<range>991.827325943041</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-94.73921309990699,38.81590259972135,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>State Land Board (Oakwood)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-104.7751446999599</longitude>
+					<latitude>39.78788600051519</latitude>
+					<altitude>0</altitude>
+					<heading>2.566866655675132e-11</heading>
+					<tilt>0</tilt>
+					<range>999.9999934514417</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-104.7751446999599,39.78788600051519,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Highlands (Arbor)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-85.89955329933335</longitude>
+					<latitude>38.31431769982596</latitude>
+					<altitude>0</altitude>
+					<heading>4.132729263533305e-10</heading>
+					<tilt>0</tilt>
+					<range>1000.000032451025</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-85.89955329933335,38.31431769982596,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Thompson River Ranch (Oakwood)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-104.9897027999121</longitude>
+					<latitude>40.38692259968862</latitude>
+					<altitude>0</altitude>
+					<heading>5.69541926809672e-11</heading>
+					<tilt>0</tilt>
+					<range>1000.000002559117</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-104.9897027999121,40.38692259968863,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Villamar (Highland)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-81.68394840009367</longitude>
+					<latitude>27.94956520020816</latitude>
+					<altitude>0</altitude>
+					<heading>-4.392982126037409e-11</heading>
+					<tilt>0</tilt>
+					<range>994.4829279494762</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-81.68394840009367,27.94956520020816,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wander (Oakwood)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-111.9107253906588</longitude>
+					<latitude>40.35895339726508</latitude>
+					<altitude>0</altitude>
+					<heading>2.313901239084931e-09</heading>
+					<tilt>0</tilt>
+					<range>1015.939950618311</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-111.9107253906588,40.35895339726508,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wander LUD (Oakwood)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-111.9107256054943</longitude>
+					<latitude>40.35895340165995</latitude>
+					<altitude>0</altitude>
+					<heading>-3.557979973571407e-09</heading>
+					<tilt>0</tilt>
+					<range>1000.00006539247</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-111.9107256054943,40.35895340165995,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wildwood (Highland)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-82.08682589857345</longitude>
+					<latitude>28.88703249834672</latitude>
+					<altitude>0</altitude>
+					<heading>4.91834614832155e-10</heading>
+					<tilt>0</tilt>
+					<range>1000.953578854113</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-82.08682589857345,28.88703249834672,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wind Dance Farms (Arbor)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-85.42598653669815</longitude>
+					<latitude>38.19982912743556</latitude>
+					<altitude>0</altitude>
+					<heading>-1.803252053034577e-09</heading>
+					<tilt>0</tilt>
+					<range>1016.910331093762</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-85.42598653669815,38.19982912743557,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wood Preserve (Arbor)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>-86.15813540146137</longitude>
+					<latitude>39.42075840086437</latitude>
+					<altitude>0</altitude>
+					<heading>-9.279685730971753e-10</heading>
+					<tilt>0</tilt>
+					<range>1000.000000135478</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-86.15813540146135,39.42075840086437,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Fully Realized Deals</name>
+			<open>1</open>
+			<Placemark>
+				<name>Aberdeen (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-07-13</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-86.1540722284124</longitude>
+					<latitude>40.07304030185721</latitude>
+					<altitude>0</altitude>
+					<heading>-0.09554181808739498</heading>
+					<tilt>15.09585217096751</tilt>
+					<range>2197.949415011854</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin10</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-86.15788702156144,40.07232762362825,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Brookland Grove (Tri Pointe)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2022-07-04</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-76.99953097155891</longitude>
+					<latitude>38.92866293081607</latitude>
+					<altitude>0</altitude>
+					<heading>5.038068691673937</heading>
+					<tilt>19.51138271419628</tilt>
+					<range>466.7099190334853</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin001</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-76.99983862255776,38.92851074869764,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Canyon Views (David Weekley)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-04-23</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-112.4909662527973</longitude>
+					<latitude>33.51848431977783</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0007920992321245872</heading>
+					<tilt>14.48491557039979</tilt>
+					<range>1084.299978873088</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin001</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-112.4925452634123,33.51822339465323,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cole Mill Road (Beazer)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-07-12</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-78.9540789664222</longitude>
+					<latitude>36.0340446601637</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02981674818996631</heading>
+					<tilt>8.260215420426563</tilt>
+					<range>2186.692873294663</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin001</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-78.95828809340345,36.03269147757024,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Morgan Heights (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-07-19</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-98.7897281</longitude>
+					<latitude>29.4860872</latitude>
+					<altitude>0</altitude>
+					<heading>-1.431249606658582e-14</heading>
+					<tilt>0</tilt>
+					<range>1000.000000001966</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin001</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.78972809999999,29.4860872,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Morgan Meadows (Lennar)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-07-19</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-98.78869577956007</longitude>
+					<latitude>29.49846846109232</latitude>
+					<altitude>0</altitude>
+					<heading>-0.01588432629092353</heading>
+					<tilt>14.84879437517986</tilt>
+					<range>1750.140897686646</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin001</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-98.77988553413491,29.50019850371862,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parkway Trails 2.0 (Hovnanian)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2022-07-04</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-95.12331447175075</longitude>
+					<latitude>29.65579487049775</latitude>
+					<altitude>0</altitude>
+					<heading>-1.309845051481774e-08</heading>
+					<tilt>0</tilt>
+					<range>1016.555918087749</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin001</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-95.12331447175073,29.65579487049775,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Waverly (Beazer)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-03-05</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-86.41965048473398</longitude>
+					<latitude>36.1965083708957</latitude>
+					<altitude>0</altitude>
+					<heading>0.0004068146070914469</heading>
+					<tilt>0</tilt>
+					<range>1698.567211786121</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin001</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-86.41965048473399,36.1965083708957,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Pipeline</name>
+			<open>1</open>
+			<Placemark>
+				<name>Neo (LIVV Homes)</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-07-10</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-115.0402103</longitude>
+					<latitude>36.0162493</latitude>
+					<altitude>0</altitude>
+					<heading>-2.067360542951286e-14</heading>
+					<tilt>0</tilt>
+					<range>999.9999999993167</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin00</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-115.0402102999999,36.0162493,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
